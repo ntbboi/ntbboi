@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<iframe src="https://hackerrank-badge.herokuapp.com/ntbboi" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 <!--
 **ntbboi/ntbboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
