@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 🏆 HackerRank Badges
+# 🏆 HackerRank Badges
 ![SQL Silver Badge](https://img.shields.io/badge/SQL-Silver-silver)
 ![Python Silver Badge](https://img.shields.io/badge/Python-Silver-blue)
 <!--
