@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## 🏆 HackerRank Badges
-![SQL Gold Badge](https://img.shields.io/badge/SQL-Gold-yellow)
+![SQL Silver Badge](https://img.shields.io/badge/SQL-Silver-silver)
 <!--
 **ntbboi/ntbboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
