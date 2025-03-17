@@ -7,7 +7,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goodvvi)](https://solved.ac/goodvvi/)
-
+https://github.com/csihyeon9/KU_INISW_5th_G1_FinWise
 <!--
 **ntbboi/ntbboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
